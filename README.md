@@ -43,7 +43,6 @@ ex ) 0 주차
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|J075|박상신|[자료구조 - Red-Black tree]
-(https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)|
+|J075|박상신|[자료구조 - Red-Black tree](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)|
   
 ---
