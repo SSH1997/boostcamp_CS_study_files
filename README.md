@@ -39,7 +39,7 @@ ex ) 0 주차
 
 |캠퍼ID|성함|주제|
 |---|---|---|
-|J105|신준수|[디자인패턴 - 싱글턴](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/3.%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/J105_Singleton%20in%20JavaScript.pdf)|
+|J105|신준수|[디자인패턴 - Singleton in JavaScript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/3.%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/J105_Singleton%20in%20JavaScript.pdf)|
 |   |   |   |
 |   |   |   |
   
