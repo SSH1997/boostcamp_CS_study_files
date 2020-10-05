@@ -1,7 +1,7 @@
 # boostcamp_CS_study 파일 저장소입니다
 
 - ppt 파일이나 발표 자료를 pull / push 해서 관리
-- ### 파일을 등록 할 때는 주제에 해당하는 폴더에 <br> 캠퍼ID_세부주제 ( ex. 운영체제 / J000_페이징 ) 으로 등록합니다.
+- ### 파일을 등록 할 때는 주제에 해당하는 폴더에 <br> 캠퍼ID*세부주제 ( ex. 운영체제 / J000*페이징 ) 으로 등록합니다.
 - 커밋 메시지는 자유~
 
 ---
@@ -32,17 +32,18 @@ ex ) 0 주차
 |캠퍼ID|성함|주제|
 |---|---|---|
 |J000|홍길동|[운영체제- 페이징](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J000_%ED%8E%98%EC%9D%B4%EC%A7%95.txt)|
-|   |   |   |
-|   |   |   |
+| | | |
+| | | |
 
 #### 1주차
 
-|캠퍼ID|성함|주제|
-|---|---|---|
-|J105|신준수|[디자인패턴 - Singleton in JavaScript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/3.%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/J105_Singleton%20in%20JavaScript.pdf)|
-|  |  |                                                              |
-| J029 | 김도연 | [OSI 7 Layer](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J029_OSI7layer.pdf) |
-|   |   |   |
-|J075|박상신|[자료구조 - Red-Black tree](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)|
+| 캠퍼ID | 성함   | 주제                                                                                                                                                                                            |
+| ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| J105   | 신준수 | [디자인패턴 - Singleton in JavaScript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/3.%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/J105_Singleton%20in%20JavaScript.pdf) |
+|        |        |                                                                                                                                                                                                 |
+| J029   | 김도연 | [OSI 7 Layer](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J029_OSI7layer.pdf)                                                     |
+|        |        |                                                                                                                                                                                                 |
+| J075   | 박상신 | [자료구조 - Red-Black tree](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)                                                  |
+| J099   | 송진현 | [Javascript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/8.%20Javascript/J099_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84.pdf)                                            |
 
 ---
