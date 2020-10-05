@@ -41,7 +41,7 @@ ex ) 0 주차
 |---|---|---|
 |J105|신준수|[디자인패턴 - Singleton in JavaScript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/3.%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/J105_Singleton%20in%20JavaScript.pdf)|
 |  |  |                                                              |
-| J029 | 김도연 | [OSI 7 Layer]() |
+| J029 | 김도연 | [OSI 7 Layer](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J029_OSI7layer.pdf) |
 |   |   |   |
 |J075|박상신|[자료구조 - Red-Black tree](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)|
 
