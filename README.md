@@ -45,5 +45,5 @@ ex ) 0 주차
 |        |        |                                                                                                                                                                                                 |
 | J075   | 박상신 | [자료구조 - Red-Black tree](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20자료구조/red-black-tree-J075박상신.pdf)                                                  |
 | J099   | 송진현 | [Javascript](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/8.%20Javascript/J099_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84.pdf)                                            |
-
+| J103   | 신승현 | [무선신호](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J103_RemoteSignal.pptx)                                            |
 ---
