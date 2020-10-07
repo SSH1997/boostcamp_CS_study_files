@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J109</title>
+    <link rel='stylesheet' href='./index.css'/>
+</head>
+<body>
+    <h1>🙌 Web Accessibility</h1>
+    <section>
+        <h1>1. Semantic tag</h1>
+        <div id='button-div' class='button-div btn'>
+            div로 만든 버튼
+        </div>
+        <button id='button-btn' class='button-btn btn'>
+            button으로 만든 버튼
+        </button>
+    </section>
+    <section>
+        <h1>2. Keyboard Accessibility</h1>
+        <div class='flex'>
+            <ul> 
+                태그와 JS 코드로 link 연결
+                <li id='naver'>Naver</li>
+                <li id='kakao'>Kakao</li>
+                <li id='google'>Google</li>
+            </ul>
+            <ul> 
+                a 태그를 이용하여 link 연결
+                <li><a href="https://www.naver.com" target="_blank">Naver</a></li>
+                <li><a href="https://www.kakaocorp.com/" target="_blank">Kakao</a></li>
+                <li><a href="https://www.google.com" target="_blank">Google</a></li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <h1>4. Focus Handling</h1>
+        <div class="flex">
+            <form class="bad form">
+                <label for="name">이름</label>
+                <input name="name" type="text" placeholder="이름 입력">
+                <label for="movie">좋아하는 영화</label>
+                <input name="movie" type="text" placeholder="좋아하는 영화 입력">
+                <button type="button">버튼 1</button>
+                <button type="button">버튼 2</button>
+                <button type="button">버튼 3</button>
+                <button type="submit">제출</button>
+            </form>
+            <form class="good form">
+                <label for="name">이름</label>
+                <input name="name" type="text" placeholder="이름 입력">
+                <label for="movie">좋아하는 영화</label>
+                <input name="movie" type="text" placeholder="좋아하는 영화 입력">
+                <button type="button">버튼 1</button>
+                <button type="button">버튼 2</button>
+                <button type="button">버튼 3</button>
+                <button type="submit">제출</button>
+            </form>
+        </div>
+    </section>
+    <script src='./index.js'></script>
+</body>
+</html>
