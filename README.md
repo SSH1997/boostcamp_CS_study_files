@@ -50,5 +50,6 @@ ex ) 0 주차
 | J200   | 지화영 | [분기예측](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/9.%20%EA%B8%B0%ED%83%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%A7%80%EC%8B%9D/J200_%EB%B6%84%EA%B8%B0%EC%98%88%EC%B8%A1.pdf) |
 | J200   | 박인서 | [인터럽트](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Interrupt.md)                                                                                        |
 | J090   | 박진영 | [프로토타입 체이닝](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/8.%20Javascript/J090_Prototype_Chaining.pdf)                                                                               |
+| J017   | 권영언 | [프로세스](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J017_process.md)    |
 
 ---
