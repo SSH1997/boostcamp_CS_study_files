@@ -1,7 +1,9 @@
 # boostcamp_CS_study 파일 저장소입니다
 
 - ppt 파일이나 발표 자료를 pull / push 해서 관리
+
 - ### 파일을 등록 할 때는 주제에 해당하는 폴더에 <br> 캠퍼ID*세부주제 ( ex. 운영체제 / J000*페이징 ) 으로 등록합니다.
+
 - 커밋 메시지는 자유~
 
 ---
@@ -29,11 +31,12 @@
 ### 주차별 발표 자료 링크
 
 ex ) 0 주차
-|캠퍼ID|성함|주제|
-|---|---|---|
-|J000|홍길동|[운영체제- 페이징](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J000_%ED%8E%98%EC%9D%B4%EC%A7%95.txt)|
-| | | |
-| | | |
+
+| 캠퍼ID | 성함   | 주제                                                         |
+| ------ | ------ | ------------------------------------------------------------ |
+| J000   | 홍길동 | [운영체제- 페이징](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J000_%ED%8E%98%EC%9D%B4%EC%A7%95.txt) |
+|        |        |                                                              |
+|        |        |                                                              |
 
 #### 1주차
 
@@ -56,8 +59,9 @@ ex ) 0 주차
 
 #### 2주차
 
-|캠퍼ID|성함|주제|
-|---|---|---|
-|J105|신준수|[클린코드 - 함수&주석](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/9.%20%EA%B8%B0%ED%83%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%A7%80%EC%8B%9D/J105_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C_%ED%95%A8%EC%88%98%26%EC%A3%BC%EC%84%9D.pdf)|
-| | | |
-| | | |
+| 캠퍼ID | 성함   | 주제                                                         |
+| ------ | ------ | ------------------------------------------------------------ |
+| J105   | 신준수 | [클린코드 - 함수&주석](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/9.%20%EA%B8%B0%ED%83%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%A7%80%EC%8B%9D/J105_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C_%ED%95%A8%EC%88%98%26%EC%A3%BC%EC%84%9D.pdf) |
+| J029   | 김도연 | [Trie 자료구조 알아보기](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/J029_Trie.pdf) |
+|        |        |                                                              |
+
