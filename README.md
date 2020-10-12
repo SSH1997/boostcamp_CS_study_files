@@ -54,7 +54,7 @@ ex ) 0 주차
 | J200   | 박인서 | [인터럽트](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Interrupt.md)                                                                                        |
 | J090   | 박진영 | [프로토타입 체이닝](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/8.%20Javascript/J090_Prototype_Chaining.pdf)                                                                                          |
 | J017   | 권영언 | [프로세스](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J017_process.md)                                                                                     |
-| J168   | 이호진 | [메모리](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J168_%EB%A9%94%EB%AA%A8%EB%A6%AC.md)                                                                   |
+| J168   | 이호진 | [메모리](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J168_%EB%A9%94%EB%AA%A8%EB%A6%AC.pptx)                                                                 |
 
 ---
 
@@ -64,4 +64,4 @@ ex ) 0 주차
 | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | J105   | 신준수 | [클린코드 - 함수&주석](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/9.%20%EA%B8%B0%ED%83%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%A7%80%EC%8B%9D/J105_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C_%ED%95%A8%EC%88%98%26%EC%A3%BC%EC%84%9D.pdf) |
 | J029   | 김도연 | [Trie 자료구조 알아보기](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/J029_Trie.pdf)                                                                                                                             |
-| J168   | 이호진 | [인터넷 연결부터 접속까지](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J168_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%B0%EA%B2%B0%EB%B6%80%ED%84%B0%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80.md)                             |
+| J168   | 이호진 | [인터넷 연결부터 접속까지](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J168_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%B0%EA%B2%B0%EB%B6%80%ED%84%B0%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80.pptx)                           |
