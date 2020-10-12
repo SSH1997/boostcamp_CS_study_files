@@ -53,3 +53,11 @@ ex ) 0 주차
 | J017   | 권영언 | [프로세스](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/J017_process.md) |
 
 ---
+
+#### 2주차
+
+|캠퍼ID|성함|주제|
+|---|---|---|
+|J105|신준수|[클린코드 - 함수&주석](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/9.%20%EA%B8%B0%ED%83%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%A7%80%EC%8B%9D/J105_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C_%ED%95%A8%EC%88%98%26%EC%A3%BC%EC%84%9D.pdf)|
+| | | |
+| | | |
