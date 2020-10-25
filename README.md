@@ -66,3 +66,9 @@ ex ) 0 주차
 | J029   | 김도연 | [Trie 자료구조 알아보기](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/6.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/J029_Trie.pdf)                                                                                                                             |
 | J168   | 이호진 | [인터넷 연결부터 접속까지](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/1.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/J168_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%B0%EA%B2%B0%EB%B6%80%ED%84%B0%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80.pptx)                           |
 | J075   | 박상신 | [자바스크립트 Promise](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/8.%20Javascript/J075%20Javascript-Promise%20AsyncAwait.pdf)                           |
+
+#### 3주차
+
+| 캠퍼ID | 성함   | 주제                                                                                                                                                                                                                                                                          |
+| ------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| J075   | 박상신 | [CPU 스케쥴링](https://github.com/SSH1997/boostcamp_CS_study_files/blob/master/5.%20운영체제/J075-CPUScheduling.pdf)  |
